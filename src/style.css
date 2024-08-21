@@ -1,4 +1,16 @@
+@font-face {
+  font-family: "Intro";
+  src:
+    url("./fonts/Intro.otf") format("otf"),
+}
+
 .container {
   background: #bbb;
   padding: 24px;
+  font-family: 'Intro', sans-serif;
+}
+
+h1 {
+  font-size: 32px;
+  font-family: 'Intro', sans-serif;
 }
