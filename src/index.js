@@ -1,6 +1,5 @@
 import Post from "./post"
 import logo from './images/favicon.png';
-import font from './fonts/Intro.otf';
 import './style.css';
 
 const post = new Post('Webpack Post Title')
